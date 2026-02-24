@@ -133,7 +133,6 @@ jupyter notebook
 
 - Hyperparameter tuning
 - Deployment using Streamlit
-- Model explainability using SHAP
 
 ---
 
@@ -143,3 +142,4 @@ Saachi Garg
 MSc Data Science  
 
 Dhirubhai Ambani University
+
