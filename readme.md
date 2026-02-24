@@ -85,9 +85,6 @@ This project builds a machine learning model to predict whether a customer is li
 - Naive Bayes
 - Random Forest
 
-### Why these models?
-Explain briefly why you chose them.
-
 ---
 
 ## Model Performance Comparison
@@ -144,4 +141,5 @@ jupyter notebook
 
 Saachi Garg  
 MSc Data Science  
+
 Dhirubhai Ambani University
